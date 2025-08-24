@@ -8,10 +8,10 @@ Outlay revolutionizes digital payments by combining intelligent AI agents with s
 
 ## 🔗 Fast Links
 
-  - **APK:** [LINK](https://1drv.ms/u/c/cd37f27a646d3078/ETPn0eRiF_ZJg3ZxYlzf7h8BqQb3d0tvmIzcq1MsXO8OOw?e=RmRufa)
+  - **APK:** [LINK](https://1drv.ms/f/c/cd37f27a646d3078/Ek-rbxSx_NROmWZY0LnDLX0B1nDOKEdX-l3OGqZi9I1sYA?e=NULVST)
   - **VIDEO DEMO:** [LINK](Pending.....)
 
-## ⚙️ System Architecture & Tech Stack
+## ⚙️ System Architectue & Tech Stack
 
 Outlay is designed with a modern Web3 architecture that prioritizes intelligence, speed, and simplicity. Every component works together to create an experience that feels natural yet powered by cutting-edge blockchain technology and AI.
 
